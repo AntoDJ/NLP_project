@@ -11,3 +11,4 @@ Design a Question Answering (QA) system based on the LangChain framework that in
 - **Text To Speech (TTS)**
 
 The domain to be used is the example movie database provided by Neo4j, integrated with descriptive plot summaries. Neo4j should be used for paradigmatic aspects.
+
